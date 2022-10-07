@@ -4,7 +4,7 @@
   <strong>This is usually what im working with:</strong>
   </br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,css,html,docker" />
+    <img src="https://skillicons.dev/icons?i=py,js,css,html,github,mongodb, stackoverflow" />
   </a>
 </p>
 
