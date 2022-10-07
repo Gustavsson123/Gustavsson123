@@ -11,10 +11,10 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavsson123&layout=compact&hide=c,cmake,php,vim+script,objective-c,roff,makefile,lua,c%2B%2B,batchfile&theme=synthwave&langs_count=10&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavsson123&layout=compact&hide=c,cmake,php,vim+script,objective-c,roff,makefile,lua,c%2B%2B,batchfile&theme=dracula&langs_count=10&hide_border=true" />
   </a>
   <br>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gustavsson123&show_icons=true&theme=synthwave&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gustavsson123&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
   </a>
 </p>
