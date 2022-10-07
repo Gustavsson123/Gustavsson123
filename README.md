@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
 <p>
-  <strong>This is usually what im working with:</strong>
+  <strong>Skills</strong>
   </br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,css,html,github,mongodb,stackoverflow" />
