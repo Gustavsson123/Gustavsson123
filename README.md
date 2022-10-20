@@ -1,8 +1,13 @@
 # Hello 👋
 
 <p>
-  <h2>Skills</h2>
-  </br>
+
+## Skills
+
+
+
+<br>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,css,html,github,mongodb,stackoverflow" />
   </a>
